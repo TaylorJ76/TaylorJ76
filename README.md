@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaylorJ76
+- 👋 Hi, I’m @TaylorJ76 - Frontend developer [@vonage](vonage.com)
 - 👀 I’m interested in Design Systems, Frontend Development, React
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Design System Frontend Architecture
